@@ -48,6 +48,18 @@ But coding is different. It's unattainable. The word "code" even makes you think
 
 I think this is bogus. On my watch, no-one gets the luxury of being a victim of circumstance.
 
+To be a programmer, you don't need the right genes.
+
+You don't need a fancy computer.
+
+You don't need expensive software.
+
+You don't need to be good at math.
+
+You don't need a computer science degree.
+
+All you need is access to a library computer, and **a problem**.
+
 -----
 
 ## Notes
