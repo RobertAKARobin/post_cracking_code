@@ -2,63 +2,62 @@
 
 > The learn-to-code industry is big and will get much bigger. The problem is no-one actually knows how to teach code.
 
-"I just feel like I'm not getting it," the grown man said, looking down and biting his lip. "Everyone else is learning so much faster than I am."
+Right now, around the world, adults from all walks of life are dropping their careers and paying tens of thousands of dollars to bang their heads against an array of technologies for twelve weeks, five days a week, nine hours a day (plus homework).
 
-"That's a crummy feeling," I responded from across the small table, nodding sympathetically. "And it probably doesn't help that you quit your job and sunk $14,000 and 12 weeks into this." He agreed.
+Their hope is that this investment will pay off in the form of a career in the high-speed, high-paying, wear-sweatpants-and-play-ping-pong-at-work web development industry.
 
-"Almost all the other students have said they feel the same way. It's not possible for *everyone* to be behind *everyone else*." I smiled. "You're special, but you're not *that* special." He half-laughed, half-sighed.
+It's a good investment. For 15 months in Washington, DC, I taught the Web Development Immersive, a coding "boot camp" run by General Assembly (GA). Even though GA makes no guarantee that its students will actually get hired, its graduates land those coveted positions at a rate of over 90% within three months of completing the program.
 
-I played out this same scene about 150 times with about 150 different people of all backgrounds, genders, and ages. Most of them were older than me.
-
-Several weeks after this conversation, with few exceptions, the student would complete my programming "boot camp" and be offered a well-paying programming job.
+It's a win-win situation, and web development "boot camps" are springing up all over to cash in.
 
 -----
 
-I taught the Web Development Immersive course at General Assembly (GA) for 15 months in Washington, DC. Right now, at locations around the world, adults from all walks of life are dropping their careers and paying lots of money to practice with a wide array of technologies for twelve weeks, five days a week, nine hours a day (plus homework).
+"Boot camp" means "hard". You can't become a Marine or a soldier without completing boot camp. "Web development boot camp" implies that to be a developer you have to slog through this rite of passage.
 
-Their hope is that this investment will pay off in the form of a career in the high-speed, high-paying, wear-whatever-and-play-ping-pong-at-work web development industry.
+But there's a growing elephant in the room: the vast majority of web developers are self-taught, and don't have any formal training at all.
 
-It seems to be a pretty good investment: even though GA makes no guarantee that students will actually get hired, its graduates land those coveted positions at a rate of over 90% within three months of completing the program.
+The truth is you don't need a boot camp to be a web developer. You also don't need a fancy computer, expensive software, a computer science degree, or to be good at math. You can design and publish a million-dollar webpage for free from a library computer.
 
-It's a win-win situation, and "boot camps" are springing up all over to cash in.
+I'm a college drop-out in my twenties. Through GA I was a teacher, mentor, confidant, and life coach to Air Force colonels, licensed doctors, and mechanical engineers, as well as waiters, cashiers, and bartenders. You'd think you could guess who would lead the class based on their background and level of education, but that wasn't the case at all. 
 
-These code schools are hard. "Boot camp" is synonymous with "hard".
-
-But there's a growing elephant in the room that could pull the rug out from beneath the entire industry: the vast majority of programmers never went to boot camp. They never had any formal training at all. They just learned on their own.
-
-Here I am, a 27-year-old college drop-out, teaching, coaching, and comforting Air Force colonels and licensed doctors. What makes me a "have" and them "have-nots"?
+So what makes a programmer? **Whoever finds the recipe to the secret sauce will have the boot camp industry by the horns.** 
 
 -----
 
 ### The myth of the not-a-computer-person
 
-The simple answer is that I'm a "born programmer". As a society, we really like this idea. We put programmers on a pedestal. People say,
+The easy answer is that I'm a "born programmer", and most people are not. I'd love to have a nickel for every time someone told me,
 
-"Oh, I'm not a computer person."
+"Oh, I could never learn to code."
 
-"I could never learn to code."
+"I'm not a computer person."
 
 "My mind just doesn't work that way."
 
-I've never heard anyone say, "I could never learn to fix a car," or "I could never learn to play the piano," or "I could never learn to write a business proposal. My mind just doesn't work that way." We accept that if we had the time to work at those long enough we'd eventually get them.
+I've never heard anyone say, "I could never learn to fix a car," or "I could never learn to play the piano," or "I could never learn to write a business proposal. My mind just doesn't work that way." We accept that if we had enough time to work at those we'd eventually get them.
 
-But coding is different. It's unattainable. The word "code" even makes you think of secret agents and mysterious messages.
+But coding is different. It's on a pedestal. The word "code" even makes you think of secret agents and mysterious messages.
 
-**If this is true -- that some folks are just born with it -- it's scary news.** Every career and industry is more and more linked to code. If being successful means being able to code, and being able to code means having the right DNA, then most people are doomed at birth. A hundred years from now the ignorant masses will be competing in the Hunger Games under an inbred technocratic elite.
+If it's true that some folks are just born with it, it's scary news. Every career is more and more linked to code. If success means coding, and coding means having the right DNA, then most people are doomed at birth. In a hundred years the masses will be competing in the Hunger Games under an inbred technocratic elite.
 
-I think this is bogus. On my watch, no-one gets the luxury of being a victim of circumstance.
+It's not a happy answer, but it's a simple one, and if you're having trouble learning code you're let off the hook as a victim of genetic circumstance.
 
-To be a programmer, you don't need the right genes.
+I also think it's the wrong answer. **The difference between the coding "haves" and "have-nots" is in how they tried to learn it.**
 
-You don't need a fancy computer.
+### The language is the easy part
 
-You don't need expensive software.
+If you can complete a high school Spanish 101 class, you can learn a programming language. Most spoken languages evolved randomly over hundreds of years. Most programming languages were created in the past couple of decades, and all of them were made by someone sitting down and saying, "I'm going to make a language."
 
-You don't need to be good at math.
+"Learning the language" is where most people seem to think programming stops. This is like thinking you memorize the Spanish dictionary and then you can speak Spanish.
 
-You don't need a computer science degree.
+### Programmers need problems
 
-All you need is access to a library computer, and **a problem**.
+
+### Coding is hard because we think coding is hard
+
+
+
+### Good coders !== good teachers
 
 -----
 
