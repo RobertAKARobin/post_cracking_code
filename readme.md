@@ -8,25 +8,25 @@ Their hope is that this investment will pay off in the form of a career in the h
 
 It's a good investment. For 15 months in Washington, DC, I taught the Web Development Immersive, a coding "boot camp" run by General Assembly (GA). Even though GA makes no guarantee that its students will actually get hired, its graduates land those coveted positions at a rate of over 90% within three months of completing the program.
 
-It's a win-win situation, and web development "boot camps" are springing up all over to cash in.
+It's a win-win situation, and other boot camps are springing up all over to cash in.
 
 -----
 
-"Boot camp" means "hard". You can't become a Marine or a soldier without completing boot camp. "Web development boot camp" implies that to be a developer you have to slog through this rite of passage.
+You can't become a Marine or a soldier without completing boot camp. Web development "boot camps" imply the same is true of developers.
 
-But there's a growing elephant in the room: the vast majority of web developers are self-taught, and don't have any formal training at all.
+But there's a growing elephant in the room: a huge number of web developers are self-taught and have no formal training at all.
 
 The truth is you don't need a boot camp to be a web developer. You also don't need a fancy computer, expensive software, a computer science degree, or to be good at math. You can design and publish a million-dollar webpage for free from a library computer.
 
-I'm a college drop-out in my twenties. Through GA I was a teacher, mentor, confidant, and life coach to Air Force colonels, licensed doctors, and mechanical engineers, as well as waiters, cashiers, and bartenders. You'd think you could guess who would lead the class based on their background and level of education, but that wasn't the case at all. 
-
-So what makes a programmer? **Whoever finds the recipe to the secret sauce will have the boot camp industry by the horns.** 
+So what's the difference between the person who is self-taught, and the person who pays $14,000 for what they could learn for free?
 
 -----
 
-### The myth of the not-a-computer-person
+## The myth of the not-a-computer person
 
-The easy answer is that I'm a "born programmer", and most people are not. I'd love to have a nickel for every time someone told me,
+I'm a college drop-out in my twenties, and I'm self-taught. My students were cashiers, bartenders, orthodox Jewish grandmothers, licensed doctors, Air Force colonels, and everyone in between.
+
+The easy explanation is that I'm a "born programmer", and most people aren't. I'd love to get a nickel for every time someone told me,
 
 "Oh, I could never learn to code."
 
@@ -34,35 +34,55 @@ The easy answer is that I'm a "born programmer", and most people are not. I'd lo
 
 "My mind just doesn't work that way."
 
-I've never heard anyone say, "I could never learn to fix a car," or "I could never learn to play the piano," or "I could never learn to write a business proposal. My mind just doesn't work that way." We accept that if we had enough time to work at those we'd eventually get them.
+On the other hand, I've never heard anyone say, "I could never learn to fix a car," or "I could never learn to play the piano," or "I could never learn to write a business proposal. My mind just doesn't work that way." It's accepted that if you work long enough at those you'll get them.
 
-But coding is different. It's on a pedestal. The word "code" even makes you think of secret agents and mysterious messages.
+We think coding is different. It's up on a pedestal. The word "code" even makes you think of secret agents and mysterious messages.
 
-If it's true that some folks are just born with it, it's scary news. Every career is more and more linked to code. If success means coding, and coding means having the right DNA, then most people are doomed at birth. In a hundred years the masses will be competing in the Hunger Games under an inbred technocratic elite.
+If it's true that some folks are just born with it, it's scary news. Every career is more and more linked to code. If success means coding, and coding means having the right DNA, then in a hundred years the masses will be competing in the Hunger Games under an inbred technocratic elite.
 
-It's not a happy answer, but it's a simple one, and if you're having trouble learning code you're let off the hook as a victim of genetic circumstance.
+Really, if you can learn English, you can learn a programming language. English evolved randomly over thousands of years. Programming languages were all created in the last 60 years by someone sitting down and saying, "I'm going to make a language."
 
-I also think it's the wrong answer. **The difference between the coding "haves" and "have-nots" is in how they tried to learn it.**
-
-### The language is the easy part
-
-If you can complete a high school Spanish 101 class, you can learn a programming language. Most spoken languages evolved randomly over hundreds of years. Most programming languages were created in the past couple of decades, and all of them were made by someone sitting down and saying, "I'm going to make a language."
-
-"Learning the language" is where most people seem to think programming stops. This is like thinking you memorize the Spanish dictionary and then you can speak Spanish.
+The difference isn't in how "smart" you are. It's not even in how much discipline you have: my students were all incredibly hard-working. **The difference is in why you learn to code in the first place.**
 
 ### Programmers need problems
 
+There are two types of people who learn to code:
 
-### Coding is hard because we think coding is hard
+1. The people who have some technical or mechanical problem or puzzle that keeps them up at night, and writing a program or script seems like the only way they'll be able to solve it and actually get some sleep.
 
+2. Everyone else.
 
+I started learning code because I was too shy to sell things in-person or over the phone. Instead of just sucking it up, I thought selling things online would let me avoid interacting with real people, and I was too cheap and stubborn to pay someone to make a website for me.
 
-### Good coders !== good teachers
+Coding boot camp students might be motivated by having a business idea, or wanting to make more to support their families, or liking to build stuff. But these aren't really what code is meant for.
+
+**Programming is creating small shortcuts**. You have something that's slow or unpleasant to use -- a bloated Excel spreadsheet, a repetitive task, an uncomfortable interaction -- and you do just enough to solve that very specific problem.
+
+### Coding books are boring
+
+Programmers are notorious for being "lazy": when faced with something inefficient or annoying, they work extremely hard to avoid having to deal with it. Without this kind of problem, learning code on your own is almost impossible.
+
+This is why coding books and online coding tutorials never really seem to "stick" with beginners.
+
+Everyone I know with any interest in code has tried CodeAcademy's free online web design tutorial. But I can count on zero fingers the number of people who have really retained anything from it.
+
+CodeAcademy isn't *bad*, but it assumes you're using it as a means to an end: you already have a problem you want to solve, and you're using CodeAcademy to get there. 
+
+Learn-to-code resources tend to follow the same order:
+
+1. This is how the Web works.
+- This is how you make "Hello, world!" show up on a webpage.
+- Here are 30 HTML tags to practice.
+- This is how you make "Hello, world!" look pretty.
+- Here are 30 CSS properties to practice.
+- This is how you make "Hello, world!" change colors when you click on it.
+- Here are 30 Javascript functions to practice.
 
 -----
 
 ## Notes
 
+- "Learning the language" is where most people seem to think programming stops. This is like thinking you memorize the Spanish dictionary and then you can speak Spanish.
 - Learning code isn't like learning piano where if you just mindlessly do it long enough you get better.
   - Tutorials and sites like CodeAcademy don't seem to "stick". You need an actual project.
 - "Hello world" examples are only useful if you see them as a means to an end, rather than an end in and of themselves.
