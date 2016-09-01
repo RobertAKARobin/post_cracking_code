@@ -18,45 +18,39 @@ But there's a growing elephant in the room: a huge number of web developers are 
 
 You don't need a boot camp to be a web developer. You also don't need a fancy computer, expensive software, a computer science degree, or to be good at math. You can design and publish a million-dollar webpage for free from a library computer.
 
-So what's the difference between the person who is self-taught, and the person who pays $14,000 for what they could learn for free?
+So what's the difference between the person who is self-taught, and the person who pays $14,000?
 
 ### The myth of the not-a-computer person
 
-I'm a college drop-out in my twenties, and I'm self-taught. My students are cashiers, bartenders, orthodox Jewish grandmothers, licensed doctors, Air Force colonels, and everyone in between. The easy explanation is that I'm a "born programmer", and they aren't.
+My students are cashiers, bartenders, orthodox Jewish grandmothers, licensed doctors, Air Force colonels, and everyone in between. I'm a college drop-out in my twenties.
 
-I'd love to get a nickel for every time someone told me,
+How come I was able to self-teach my way to the front of the classroom, and they weren't? The easy explanation is that I'm a "born programmer", and they aren't. 
 
-"Oh, I could never learn to code."
+I'd love to get a nickel every time someone says, "Oh, I could never learn to code. I'm not a computer person. My mind just doesn't work that way." On the other hand, I've never heard anyone say, "I could never learn to fix a car," or "I could never learn to play the piano," or "I could never learn to write a business proposal."
 
-"I'm not a computer person."
+Most things, we figure if you work at them long enough you'll get them. Coding seems different. It's up on a pedestal for a chosen few. The word "code" makes you think of secret agents and mysterious organizations.
 
-"My mind just doesn't work that way."
+If it's true that some folks are just born programmers, it's scary news. Every career is now linked to code. If success means coding, and coding means having the right DNA, then in a hundred years the masses will be competing in the Hunger Games under an inbred technocratic elite.
 
-On the other hand, I've never heard anyone say, "I could never learn to fix a car," or "I could never learn to play the piano," or "I could never learn to write a business proposal. My mind just doesn't work that way." It's accepted that if you work long enough at those you'll get them.
+Hogwash. If you can learn English, you can learn any programming language. English evolved randomly over thousands of years. Programming languages were all created in the last 60 years by someone sitting down and saying, "I'm going to make a language." Any programming language makes more sense than English.
 
-We think coding is different. It's up on a pedestal. The word "code" makes you think of secret agents and mysterious organizations.
+What makes self-teachers different isn't how "smart" they are. **The difference is in why they chose to learn to code in the first place.**
 
-If it's true that some folks are just born with it, it's scary news. Every career is more and more linked to code. If success means coding, and coding means having the right DNA, then in a hundred years the masses will be competing in the Hunger Games under an inbred technocratic elite.
+### Necessity is the mother of programming
 
-The truth is, if you can learn English, you can learn any programming language. English evolved randomly over thousands of years. Programming languages were all created in the last 60 years by someone sitting down and saying, "I'm going to make a language."
+People start learning code for one of two reasons:
 
-The difference isn't in how "smart" you are. It's not even in how much discipline you have: my students were all incredibly hard-working. **The difference is in why you chose to learn to code in the first place.**
+1. There's an annoying problem or puzzle keeping them up at night, and writing a program or script seems like the only way they'll be able to solve it and actually get some sleep.
 
-### Programmers need problems
+2. Something else.
 
-There are two types of people who learn to code:
+My up-at-night problem was discovering I was too shy to sell things in-person or over the phone, but still had to pay rent. I thought having a simple website would let me avoid interacting with real people, and couldn't afford to hire someone to make it for me.
 
-1. The people who have some technical or mechanical problem or puzzle that keeps them up at night, and writing a program or script seems like the only way they'll be able to solve it and actually get some sleep.
+Many people start learning code because they have an app idea, or want to make more to support their families, or want to be a better project manager. They often don't get very far because these aren't the challenges code is meant to solve. 
 
-2. Everyone else.
+**Programming is creating small shortcuts**. You have something that's slow or unpleasant to use -- a bloated Excel spreadsheet, a repetitive task, an uncomfortable interaction -- and you do just enough to grease that one wheel.
 
-I started learning code because I was too shy to sell things in-person or over the phone. Instead of sucking it up, I thought selling things online would let me avoid interacting with real people, and I was too cheap and stubborn to pay someone to make a website for me.
-
-Coding boot camp students might be motivated by having a business idea, or wanting to make more to support their families, or liking to build stuff. But these aren't the challenges code is meant to solve.
-
-**Programming is creating small shortcuts**. You have something that's slow or unpleasant to use -- a bloated Excel spreadsheet, a repetitive task, an uncomfortable interaction -- and you do just enough to solve that very specific problem.
-
-Programmers are notorious for being "lazy": when faced with something inefficient or annoying, they work extremely hard to avoid having to deal with it. Without this kind of stimulus, learning code on your own is almost impossible.
+Programmers are notorious for being "lazy": they work extremely hard to avoid having to deal with anything or inefficient. It becomes an up-at-night problem. 
 
 ### Coding books are boring
 
@@ -80,7 +74,7 @@ It's like learning Spanish in this order, taken from a popular Spanish textbook:
 
 The order makes sense. It's very logical. But you won't finish the textbook knowing how to speak Spanish, and you won't finish CodeAcademy knowing how to code. 
 
-Learning a language doesn't usually work unless you *need* it. The best way to learn Spanish is to be immersed in a Spanish-speaking environment where you have to speak it to get by, in which case the textbook would be useful. The best way to learn code is to have a pressing need for a website or script, in which case CodeAcademy would be useful. In both cases you have a concrete goal, and a reason to remember what you're learning beyond "because I want to."
+Learning a language doesn't usually work unless you *need* it. The best way to learn Spanish is to be immersed in a Spanish-speaking environment where you have to speak it to get by. The best way to learn code is to have a pressing need for a website or script. In both cases you have a concrete up-at-night problem. 
 
 ### The problem of no problem
 
